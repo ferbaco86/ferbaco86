@@ -1,4 +1,9 @@
-<img src="https://user-images.githubusercontent.com/52765379/89498492-5504e980-d78c-11ea-9623-20d7b87314a6.gif"/>
+<img src="https://user-images.githubusercontent.com/52765379/89498492-5504e980-d78c-11ea-9623-20d7b87314a6.gif">
+
+[![Linkedin Badge](https://img.shields.io/badge/-fernando_bahamondes_correa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-bahamondes-correa/)](https://www.linkedin.com/in/fernando-bahamondes-correa/)
+[![Mail Badge](https://img.shields.io/badge/-contact@fernando\-\-bc.com-c14438?style=flat-square&logo=Email&logoColor=white&link=mailto:contact@fernando\-\-bc.com)](mailto:contact@fernando\-\-bc.com) [![Twitter Badge](https://img.shields.io/badge/-@ferbac0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ferbac0)](https://twitter.com/ferbac0)
+
+[![Ferbaco86's github stats](https://github-readme-stats.vercel.app/api?username=ferbaco86)](https://github.com/ferbaco86/github-readme-stats)
 
 
 
